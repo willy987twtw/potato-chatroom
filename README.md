@@ -3,9 +3,9 @@
 每位用戶都擁有獨立的UID，並擁有好友系統。
 成為好友前，須先與對方要求其專屬ID，並寄出好友邀請後，等待對方同意後，方可成為好友，並建立獨立聊天室。
 
+## 使用說明
 
-# potato
-
+## 啟動方法
 ## Project setup
 ```
 npm install
@@ -20,6 +20,14 @@ npm run serve
 ```
 npm run build
 ```
+
+## 程式碼結構
+
+
+
+# potato
+
+
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
