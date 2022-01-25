@@ -6,7 +6,7 @@
 ## 使用說明
 
 ## 啟動方法
-## Project setup
+### Project setup
 ```
 npm install
 ```
